@@ -5,7 +5,7 @@
 # computation, usually by designing/building an executable computer program.
 #
 # We usually think of the digital world when we think of programming,
-# but computers and programmin have taken many different shapes. 
+# but computers and programming have taken many different shapes. 
 # The first computers were more mechanical than digital.
 
 # -------------------------------------------------
