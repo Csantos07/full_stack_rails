@@ -1,6 +1,6 @@
 # Learn Programming With Rails
 
-README
+# README
 
 This repository is meant to be used as a guide to learning progamming concepts.
 Treat this repository as your own sandbox.
