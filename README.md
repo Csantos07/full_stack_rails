@@ -1,7 +1,9 @@
 # Learn Programming With Rails README
 ---
 
-This repository is meant to be used as a guide as well as a sandbox. Try new code you've learned. Copy and paste snippets into irb.
+This repository is meant to be used as a guide to learning progamming concepts. 
+Treat this repository as your own sandbox.
+Try new code you've learned. Copy and paste snippets into irb.
 
 ## Table of Contents
 ---
@@ -32,6 +34,8 @@ This repository is meant to be used as a guide as well as a sandbox. Try new cod
   - OOP Concepts
 ---
 
+If you would like to contribute:
+Contact: Carlo@snapit.soltuions
 [Make A README](https://www.makeareadme.com/)
 
 [Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax)
