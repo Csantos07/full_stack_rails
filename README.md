@@ -2,7 +2,9 @@
 
 This repository is meant to be used as a guide to learning progamming concepts.
 Treat this repository as your own sandbox.
-Try new code you've learned. Copy and paste snippets into irb.
+
+Try new code you've learned. Copy and paste snippets of html and css.
+Copy and paste into irb.
 
 ## Table of Contents
 
