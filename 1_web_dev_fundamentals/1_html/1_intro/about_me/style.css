@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  background-color: black;
+}
+
+.nav {
+  height: 10vh;
+  border: 1px red solid;
+  /* margin-bottom: 10vh; */
+}
+
+.main {
+  border: 1px red solid;
+  height: 100vh;
+  background: url(images/background.png) no-repeat center center;
+}
