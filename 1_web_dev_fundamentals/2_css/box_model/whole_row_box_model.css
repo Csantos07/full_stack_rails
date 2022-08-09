@@ -1,0 +1,21 @@
+/* Inline Block Level */
+div {
+  border: 1px solid black;
+  height: 100px;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.white {
+  background-color: white;
+}
