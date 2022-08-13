@@ -1,16 +1,33 @@
 body {
-  height: 100vh;
+  margin: 0;
+  font-family: arial;
+  background: url(images/nmu_team.jpeg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+nav {
+  margin: 0;
   background-color: black;
+  color: white;
+  padding: 0.3em 1em;
+  position: relative;
 }
 
-.nav {
-  height: 10vh;
-  border: 1px red solid;
-  /* margin-bottom: 10vh; */
+section {
+  display: inline-block;
 }
 
-.main {
-  border: 1px red solid;
-  height: 100vh;
-  background: url(images/background.png) no-repeat center center;
+h3 {
+  margin: 0;
+}
+
+.links {
+  position: absolute;
+  right: 1em;
+}
+
+a {
+  font-size: 0.7em;
+  text-decoration: none;
+  color: inherit;
 }
