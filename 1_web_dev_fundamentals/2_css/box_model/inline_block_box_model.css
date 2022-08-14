@@ -3,7 +3,7 @@ div {
   border: 1px solid black;
   height: 300px;
   width: 300px;
-  display: inline;
+  display: inline-block;
 }
 
 .red {
