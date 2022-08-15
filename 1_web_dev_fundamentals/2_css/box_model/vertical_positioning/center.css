@@ -1,0 +1,31 @@
+/* vertically center */
+/* with flexbox */
+
+body {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+div {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.white {
+  background-color: white;
+}
