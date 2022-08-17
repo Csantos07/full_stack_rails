@@ -1,0 +1,8 @@
+.demo-card {
+  display: inline-block;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
