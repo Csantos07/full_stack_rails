@@ -16,7 +16,7 @@ puts "Hello World\n\n"
 
 puts "Hello What is your name?"
 name = gets
-puts "Hello, " + name + "!"
+p "Hello, " + name + "!"
 
 
 

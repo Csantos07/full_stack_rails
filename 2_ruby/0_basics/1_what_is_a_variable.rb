@@ -19,7 +19,7 @@ language = "ruby"
 
 
 # When you set the variable equal to something we call that assignment.
-# laguage = "ruby" 
+# language = "ruby" 
 #################  # =>  We are assigning the string of ruby to the varible
 #################  # =>  language.
 
