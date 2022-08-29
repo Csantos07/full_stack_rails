@@ -27,8 +27,8 @@ puts "This is our guess: " + guess
 
 puts number_to_guess
 
-if guess == number_to_guess
-  puts "Congratulations you guessed correctly!"
-elsif guess.to_i < number_to_guess
-  puts "Your guess was to low!"
-end
+  if guess == number_to_guess
+    puts "Congratulations you guessed correctly!"
+  elsif guess.to_i < number_to_guess
+    puts "Your guess was to low!"
+  end
