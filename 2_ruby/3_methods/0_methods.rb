@@ -2,7 +2,7 @@
 # --------
 #
 # Ruby METHODS are very similar to FUNCTIONS in any other programming 
-# language. Methods are used to bundle on or more repeatalbe 
+# language. Methods are used to bundle repeatalbe 
 # statements into a single unit
 #
 # Method names should begin with a lowercase letter. If you begin a 
