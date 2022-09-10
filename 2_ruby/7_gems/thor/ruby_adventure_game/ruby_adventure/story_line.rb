@@ -23,11 +23,8 @@ class StoryLine
     puts "Choose your role:"
     print_charachter_menu
     choice = STDIN.gets.chomp
-    # puts thor = Thor::Shell::Basic.new
-    # var = thor.ask("Hello")
-    # puts var
-    # choice = Thor::Shell::Basic.methods
-    make_selection(choice)
+
+    select_character(choice)
   end
 
   def self.dramatic_pause
@@ -57,7 +54,7 @@ class StoryLine
     puts "--------------------"
   end
 
-  def self.make_selection(choice)
+  def self.select_character(choice)
     case choice
     when '1'
       puts 'You have selected to be a samurai.'
