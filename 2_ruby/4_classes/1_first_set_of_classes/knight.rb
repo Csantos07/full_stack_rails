@@ -1,4 +1,4 @@
-class Samurai
+class Knight
   attr_accessor :name, :age, :strength, :health, :alive
 
   def initialize(name, age, strength)
@@ -14,7 +14,7 @@ class Samurai
       puts "I see no opponent here."
       return
     end
-    puts "#{name} swings their kitana with a power of #{strength}"
+    puts "#{name} swings their broadsword with a power of #{strength}"
     return opponent.absorb_attack(strength)
   end
 
@@ -27,8 +27,3 @@ class Samurai
     return self
   end
 end
-
-# require 'samurai'
-oda = Samurai.new("Oda Nobunaga", 15, 10)
-yasuke = Samurai.new("Yasuke", 23, 15)
-# oda =  yasuke.attack(oda)

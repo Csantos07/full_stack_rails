@@ -1,11 +1,11 @@
 require 'warrior'
-class Samurai < Warrior
+class Knight < Warrior
 
   def attack(opponent)
     super
     return if opponent.nil?
     
-    puts "#{name} swings their kitana with a power of #{strength}"
+    puts "#{name} swings their broadswoard with a power of #{strength}"
     opponent.absorb_attack(strength)
   end
 

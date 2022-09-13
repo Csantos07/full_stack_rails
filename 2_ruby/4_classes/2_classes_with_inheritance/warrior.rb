@@ -1,4 +1,4 @@
-class Character
+class Warrior
   attr_accessor :name, :age, :strength, :health, :alive
 
   def initialize(name, age, strength)
