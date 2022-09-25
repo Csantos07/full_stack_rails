@@ -1,6 +1,8 @@
 # loops allow you to repeat some computation or 
 # conditional logic
 
+# In Programming we often work with large sets of data.
+
 # loop
 # while
 # until
