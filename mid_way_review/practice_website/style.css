@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Teko&display=swap");
+
+body {
+  margin: 0;
+}
+.section-one {
+  background: url("fly_union_bg.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 5.5em;
+  font-family: "Teko", sans-serif;
+  color: red;
+  margin: 0;
+}
