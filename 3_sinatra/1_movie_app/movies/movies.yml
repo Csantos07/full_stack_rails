@@ -9,3 +9,23 @@
   director: afadf
   year: afdaf
   id: 2
+3: !ruby/object:Movie
+  title: ''
+  director: ''
+  year: ''
+  id: 3
+4: !ruby/object:Movie
+  title: ''
+  director: ''
+  year: ''
+  id: 4
+5: !ruby/object:Movie
+  title: zcvz
+  director: zc
+  year: zv
+  id: 5
+6: !ruby/object:Movie
+  title: House of 1000 Corpses
+  director: Rob Zombie
+  year: ''
+  id: 6
