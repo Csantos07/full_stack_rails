@@ -13,8 +13,8 @@
     <% @movies.each do |movie| %>
       <li>
         <a href="/movies/<%= movie.id %>"><%= movie.title %></a>
-        <img src="test.jpg" width=200>
       </li>
+      <img src="<%= movie.image %>" width=200>
     <% end %>
   </ul>
   <a href="/movies/new">Add New Movie</a>

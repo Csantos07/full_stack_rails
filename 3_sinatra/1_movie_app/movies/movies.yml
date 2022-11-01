@@ -1,31 +1,13 @@
 ---
 1: !ruby/object:Movie
-  title: matrix
-  director: wathc
+  title: The Matrix
+  director: Wachowski
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MOU9bwdtLj5bMlHioRxzkr2HEyll3bm1qab6D71WulrKJrtY
   year: '1999'
   id: 1
 2: !ruby/object:Movie
-  title: fasdf
-  director: afadf
-  year: afdaf
+  title: Beetlejuice
+  director: 'Tim Burton '
+  image: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3F-Uyfpmlb1W5kLALVJqXuhf6gZgAk2OZhLw23A7p21JtvG2Z
+  year: '1999'
   id: 2
-3: !ruby/object:Movie
-  title: ''
-  director: ''
-  year: ''
-  id: 3
-4: !ruby/object:Movie
-  title: ''
-  director: ''
-  year: ''
-  id: 4
-5: !ruby/object:Movie
-  title: zcvz
-  director: zc
-  year: zv
-  id: 5
-6: !ruby/object:Movie
-  title: House of 1000 Corpses
-  director: Rob Zombie
-  year: ''
-  id: 6
